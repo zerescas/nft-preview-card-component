@@ -24,21 +24,26 @@ Users should be able to:
 
 ### Screenshots
 
-![](/images/screenshots/desktop-screenshot.jpeg)
+![](/images/screenshots/desktop-screenshot.jpeg)<br>
 <strong>Desktop</strong>
 
-![](/images/screenshots/mobile-screenshot.jpeg)
+![](/images/screenshots/mobile-screenshot.jpeg)<br>
 <strong>Mobile</strong>
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://zerescas.github.io/nft-preview-card-component/](https://zerescas.github.io/nft-preview-card-component/)
 
 ## My process
 
 ### Build with
 
+- Semantic HTML5 markup
+- CSS custom properties and flexbox
+
 ### What I learned 
+
+Improve my HTML / CSS knowledges.
 
 ## Author
 
